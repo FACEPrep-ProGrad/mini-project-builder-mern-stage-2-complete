@@ -33,7 +33,7 @@ Your task is to build a complete exercise tracker using `react, node js, express
 
 **You are free to logically decide and create routes,database schema, frontend based on your application.**
 
-### PROGRESSION 
+### PROGRESSION | FRONTEND AND BACKEND
 Connect the backend and frontend. 
 
 ### USE REDUX - ACTION, REDUCER AND STORE
